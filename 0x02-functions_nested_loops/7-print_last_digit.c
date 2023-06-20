@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main -  a function that prints the last digit of a number
  * Return: 0 (successful)
