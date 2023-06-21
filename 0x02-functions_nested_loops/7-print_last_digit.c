@@ -3,7 +3,7 @@
  * main -  a function that prints the last digit of a number
  * Return: 0 (successful)
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int l;
 
